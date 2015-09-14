@@ -8,18 +8,14 @@ ICOORDSTRANS
    transforms between old Greek system - Hatt and modern reference
    systems.
 
-Some technical reference written in Greek can be found here__.
+- Some technical reference written in Greek can be found here__.
+- Download `win32 binaries`__ 
+- Some `excel file`__ that takes advantage of the DLL and
+  `another one`__ with Hatt transforms. `Autonomous`__ software for
+  transforms, requires the DLL.
 
 __ http://users.itia.ntua.gr/soulman/icoordstrans/
-
-`win32 binaries`__
-
 __ http://users.itia.ntua.gr/soulman/icoordstrans/icoordstrans.dll
-
-Some `excel file`__ that takes advantage of the DLL and
-`another one``__ with Hatt transforms. `Autonomous`__ software for
-transforms, requires the DLL.
-
 __ http://users.itia.ntua.gr/soulman/icoordstrans/gr87transformsV2.xls
 __ http://users.itia.ntua.gr/soulman/icoordstrans/gr87transformsHatt.xls
 __ http://users.itia.ntua.gr/soulman/icoordstrans/test_program.zip
