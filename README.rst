@@ -26,8 +26,10 @@ __ http://users.itia.ntua.gr/soulman/icoordstrans/test_program.zip
    ``C:\Program Files (x86)\Microsoft Office\Office12``. This
    is untested by me.
 
-Software library for geodetic transformations on earth
-ellipsoidal surface.
+Stefanos Kozanis, 2015-09-14
+
+Software library for geodetic transformations on earth ellipsoidal surface
+--------------------------------------------------------------------------
 
 Copyright 2006, Stefanos Kozanis
 
