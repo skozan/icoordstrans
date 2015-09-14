@@ -1,7 +1,7 @@
 ICOORDSTRANS
 ------------
 
-.. ATTENTION::
+.. attention::
    This project is highly unmaintained and is kept for historical
    reasons.  Most operations provided by this library are covered by
    the free software "Proj4". However it can be still useful for some
@@ -24,7 +24,7 @@ __ http://users.itia.ntua.gr/soulman/icoordstrans/gr87transformsV2.xls
 __ http://users.itia.ntua.gr/soulman/icoordstrans/gr87transformsHatt.xls
 __ http://users.itia.ntua.gr/soulman/icoordstrans/test_program.zip
 
-.. NOTE::
+.. note::
    According to users, in order win32 binary to work with newer
    (64bit?) versions of Microsoft Excel, dll should be placed in:
    ``C:\Program Files (x86)\Microsoft Office\Office12``. This
