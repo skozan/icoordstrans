@@ -1,0 +1,24 @@
+LIBRARY      "icoordstrans"
+DESCRIPTION  'Coordinate transformations'
+
+EXPORTS
+   gr87_philambda_to_xy @1
+   gr87_xy_to_philambda @2
+   displace_geodetic_system @3
+   wgs84_philambda_to_gr87_xy @4
+   gr87_xy_to_wgs84_philambda @5
+   gr87_philambda_to_wgs84_philambda @6
+   wgs84_philambda_to_gr87_philambda @7
+   project_philambda_to_xy @8
+   project_xy_to_philambda @9
+   xy_to_wgs84_philambda @10
+   wgs84_philambda_to_xy @11
+   hatt_project_philambda_to_xy @12
+   hatt_project_xy_to_philambda @13
+   convert_xy @14
+   convert_hatt_xy_to_xy @15
+   hatt_xy_to_wgs84_philambda @16
+   wgs84_philambda_to_hatt_xy @17
+   utm_project_philambda_to_xy @18
+   utm_project_xy_to_philambda @19
+   convert_xy_to_hatt_xy @20
