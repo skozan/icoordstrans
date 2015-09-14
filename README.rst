@@ -1,13 +1,34 @@
 ICOORDSTRANS
 ------------
 
-This code is highly unmaintained and is kept for historical reasons.
-Most operations provided by this library are covered by the free
-software "Proj4". However it can be still useful for some transforms
-between old Greek system - Hatt and modern reference systems.
+.. ATTENTION::
+   This project is highly unmaintained and is kept for historical
+   reasons.  Most operations provided by this library are covered by
+   the free software "Proj4". However it can be still useful for some
+   transforms between old Greek system - Hatt and modern reference
+   systems.
 
-Some technical reference written in Greek can be found here__
+Some technical reference written in Greek can be found here__.
+
 __ http://users.itia.ntua.gr/soulman/icoordstrans/
+
+`win32 binaries`__
+
+__ http://users.itia.ntua.gr/soulman/icoordstrans/icoordstrans.dll
+
+Some `excel file`__ that takes advantage of the DLL and
+`another one``__ with Hatt transforms. `Autonomous`__ software for
+transforms, requires the DLL.
+
+__ http://users.itia.ntua.gr/soulman/icoordstrans/gr87transformsV2.xls
+__ http://users.itia.ntua.gr/soulman/icoordstrans/gr87transformsHatt.xls
+__ http://users.itia.ntua.gr/soulman/icoordstrans/test_program.zip
+
+.. NOTE::
+   According to users, in order win32 binary to work with newer
+   (64bit?) versions of Microsoft Excel, dll should be placed in:
+   ``C:\Program Files (x86)\Microsoft Office\Office12``. This
+   is untested by me.
 
 Software library for geodetic transformations on earth
 ellipsoidal surface.
