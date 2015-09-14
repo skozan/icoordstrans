@@ -42,5 +42,9 @@ that it compiles under any C compiler with few
 modifications on the code. A Makefile is included,
 I have tested it on a Linux system with gcc.
 
+To run it locally in Linux, after make, use::
+
+   LD_LIBRARY_PATH=$PWD ./test
+
 Stefanos Kozanis
 October, 3 2006
